@@ -50,5 +50,5 @@ This script estimates the **sentiment** of a given text as one of the following:
 2. Navigate to the folder containing the script.
 3. Run the script using the following command:
    ```bash
-   python wordCleaner&wordFrequencyCounter.py
-   python sentimentEstimator.py
+   python word_cleaner_and_word_frequency_counter.py
+   python sentiment_estimator.py
