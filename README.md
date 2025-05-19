@@ -1,4 +1,3 @@
-# LLM-NLP_withGSG
 # Task 1 & 2: Word Cleaner and Frequency Counter
 Description : 
 This script does the following:
